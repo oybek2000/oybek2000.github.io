@@ -1,0 +1,13 @@
+h1 {
+	font-family: Verdana;
+	font-size: 15pt;
+	color: red;
+	text-align: center;
+}
+
+p{
+	font-family: Verdana;
+	font-size: 10pt;
+	color: grey;
+	text-align: justify;
+}
